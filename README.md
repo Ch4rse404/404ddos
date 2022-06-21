@@ -36,20 +36,20 @@
 ```
 apt install python3
 apt install git
-git clone https://github.com/Ch4rse404/ddos404/
-cd 404-DDos
-chmod +x DDos-404.py
-python3 DDos-404.py
+git clone https://github.com/Ch4rse404/404ddos
+cd 404ddos
+chmod +x ddos404.py
+python3 ddos404.py
 ```
 
 #### *💻 CMD'S LINUX*
 ```
 sudo apt install python3
 sudo apt install git
-git clone https://github.com/Ch4rse404
-cd 404-DDos
-chmod +x DDos-404.py
-python3 DDos-404.py
+git clone https://github.com/Ch4rse404/404ddos
+cd 404ddos
+chmod +x ddos404.py
+python3 ddos404.py
 ```
 #### *USE COMMAND*
 ```
